@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="474647cd-87e9-41f1-858f-5a4139c60f62" name="Shared student server" url="http://ddc-web-student.cnm.edu/~kchaudhary1/snap-challenge-1">
+        <fileTransfer rootFolder="/home/kchaudhary1/public_html/snap-challenge-1" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="5caedcc4-1c9b-4adb-90d2-d2eaa04b6693" sshConfig="kchaudhary1@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
