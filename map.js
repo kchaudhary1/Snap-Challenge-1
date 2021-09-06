@@ -203,7 +203,7 @@ const people = [{
     }
 }]
 
-// console.log(people[0].company.name)
+console.log(people[0].company.name)
 
 people.map(person => delete person.company)
  // fat arrow function
